@@ -1,2 +1,3 @@
 # Xeryon-Precision.github.io
-PagesTest
+Pages test
+Website can be visited here: https://xeryon-precision.github.io/
